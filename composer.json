@@ -1,0 +1,6 @@
+{
+    "name": "contentrex/servicelocator",
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
