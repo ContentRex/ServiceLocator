@@ -2,5 +2,10 @@
     "name": "contentrex/servicelocator",
     "require": {
         "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "Contentrex": "vendor/contentrex/"
+        }
     }
 }
