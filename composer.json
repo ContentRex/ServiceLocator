@@ -5,8 +5,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Contentrex\\ServiceLocator": "vendor/contentrex/servicelocator/src/",
-            "Contentrex\\Mvc": "vendor/contentrex/mvc/src/"
+            "Contentrex\\ServiceLocator": "src/"
         }
     }
 }
